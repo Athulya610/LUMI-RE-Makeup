@@ -1,1 +1,1 @@
-# LUMI-RE-Makeup
+LUMI-RE is a complete makeup e-commerce web solution that demonstrates the practical application of web development concepts, database management, and system design. The project reflects real-world shopping workflows and provides a strong foundation for further expansion into a full-scale commercial application.
